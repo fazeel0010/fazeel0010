@@ -6,12 +6,13 @@
 - 📫 How to reach me @fazeelaksiq
 
 
-A tech enthusiast with passion to solve problems and to make things. 
-Proven skills in Web APIs, Mobile Application Development, Microsoft Technologies( .Net Core & Framework, Azure, SQL), Spring Framework, Flutter, & Desktop Applications.
-Full Stack Developer with work experience in various organizations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
+A tech enthusiast with a passion to solve problems and developing solutions. Proven skills in Web APIs, Mobile Application Development, Microsoft Technologies( .Net Core & Framework, Azure, SQL Server), Spring Framework, Flutter, & Desktop Applications. Full Stack Developer with work experience in various organizations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
 
-SDLC, SOLID rule, Architectures and Design patters are consistently stay in my psyche while fostering any product, consistently compose clean engineering and all around planned code.
+SDLC, SOLID principle, Architectures and Design patters are consistently stay in my psyche while fostering any product, consistently compose clean engineering and all around planned code.
 
+As of now work on Robot Process Automation and Backend utilizing .Net 5.0, Core, and system.
+
+Passionate about learning new technologies and being away sometimes on my comfort zone. Although it's much easier now because of the Internet and Google.
 
 <!--
 **fazeel0010/fazeel0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
