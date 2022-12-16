@@ -24,7 +24,7 @@ As of now work on Robot Process Automation and Backend utilizing .Net 5.0, Core,
 
 Passionate about learning new technologies and being away sometimes on my comfort zone. Although it's much easier now because of the Internet and Google.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazeel0010&theme=gruvbox_duo&hide_border=true&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazeel0010&theme=git-dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **fazeel0010/fazeel0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
