@@ -16,6 +16,8 @@
 <a href="https://instagram.com/fazeel0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazeel0010" height="30" width="40" /></a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazeel0010&theme=dracula&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 A tech enthusiast with a passion to solve problems and developing solutions. Proven skills in Web APIs, Mobile Application Development, Microsoft Technologies( .Net Core & Framework, Azure, SQL Server), Spring Framework, Flutter, & Desktop Applications. Full Stack Developer with work experience in various organizations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
 
 SDLC, SOLID principle, Architectures and Design patters are consistently stay in my psyche while fostering any product, consistently compose clean engineering and all around planned code.
@@ -23,8 +25,6 @@ SDLC, SOLID principle, Architectures and Design patters are consistently stay in
 As of now work on Robot Process Automation and Backend utilizing .Net 5.0, Core, and system.
 
 Passionate about learning new technologies and being away sometimes on my comfort zone. Although it's much easier now because of the Internet and Google.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazeel0010&theme=git-dark&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **fazeel0010/fazeel0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
