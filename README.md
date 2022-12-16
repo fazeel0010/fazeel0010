@@ -1,5 +1,5 @@
 
-<!-- <h1 align="center">Hi 👋, I'm Fazeel Ahmed</h1> -->
+<h1 align="center">Hi 👋, I'm Fazeel Ahmed</h1>
 
 - 👀 I’m interested in developing logics in any programming language
 - 🌱 I have 3.5 years of professional experience in .Net | Android | Spring | Backend Services etc
