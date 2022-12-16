@@ -16,6 +16,7 @@
 <a href="https://instagram.com/fazeel0010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazeel0010" height="30" width="40" /></a>
 </p>
 
+[![Fazeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazeel0010)](https://github.com/fazeel0010/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazeel0010&theme=dracula&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 A tech enthusiast with a passion to solve problems and developing solutions. Proven skills in Web APIs, Mobile Application Development, Microsoft Technologies( .Net Core & Framework, Azure, SQL Server), Spring Framework, Flutter, & Desktop Applications. Full Stack Developer with work experience in various organizations and technical teams and I believe that I am a versatile learner and can get going with any sort of work.
