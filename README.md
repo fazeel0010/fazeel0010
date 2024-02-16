@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Fazeel Ahmed</h1>
 
 - 👀 I’m interested in developing logics in any programming language
-- 🌱 I have 3.5 years of professional experience in .Net | Android | Spring | Backend Services etc
+- 🌱 I have 4 years of professional experience in .Net | Android | Spring | Backend Services etc
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on Machine Learning | Flutter
 - 📫 How to reach me @fazeel0010
